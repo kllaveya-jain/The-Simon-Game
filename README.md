@@ -6,5 +6,7 @@ The Simon game is an electronic game in which players must repeat random sequenc
 This game has been built using HTML, CSS and jQuery supported JavaScript.
 Press any key to begin the game as soon as you load the website:
 ![image](https://user-images.githubusercontent.com/121666743/212150026-a5aa3dc1-1397-45e2-a329-adcf38e5dec4.png)
+![image](https://user-images.githubusercontent.com/121666743/212150572-da529f3a-81d1-410a-9270-506240cfe7b6.png)
+
 If you lose at any point, no worries try again! It's an exercise for your brain! :)
 ![image](https://user-images.githubusercontent.com/121666743/212150321-a00b0e23-acd2-46c9-b8bb-2d18b7c15c78.png)
